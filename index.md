@@ -6,9 +6,9 @@ title: Welcome!
 ## Recent posts
 
 
-This blog is still a newborn. [And I'm alive, so it seems it wasn't a stillbirth.] 
+This blog is still a newborn. [And I'm alive, to boot!] 
 
-Recent posts will be posted here, so expect greatness!
+Recent posts will be posted here, so expect greatness.
 
 Check out the 'About Me' for a short introduction. 
 
