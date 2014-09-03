@@ -11,7 +11,7 @@ highlighter: pygments
 title : Digital Aboriginal
 tagline: Andrew's lifestyle blog!
 author :
-  name : 
+  name : Andrew Roriguez
   email : and.rod@live.com
   github : robochao
   twitter : Robochao
@@ -24,7 +24,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://robochao.github.io
+production_url : username.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -53,7 +53,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://robochao.github.io/robochao.github.com
+  BASE_PATH : false
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
