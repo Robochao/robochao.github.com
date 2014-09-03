@@ -9,8 +9,6 @@ tags: []
 
 <img src="/img/adventures.jpg" width="550" height="175">
 
-<br>
-
 Computers have been quickly changing the world as we see it - music has been becoming electrified, life has been streamlined into the internet for all to see, and product shopping takes only but a few clicks. But more importantly, computers have been helping filmmakers change the movie experience.
 
 Technology allows the artist to push the limits of experience set for the audience - <a href = "https://www.youtube.com/watch?v=mLL8KlUElbg&list=UUbhiVDWG8wgg3v9cuH6DqEA">splashes of blood-like solvent</a> become gashes of digital human plasma, <a href="https://www.youtube.com/watch?v=6UJW-wqwF8w">plumes of gasoline-fed flames</a> become dramatically fiery explosions, and so on. This is not a question of aiming for reality - it is a question of transcending reality. Offering a great movie experience is offering an experience real enough for someone to sink their attention to, but not so absurd that it clearly belongs in another universe. And like anything else, the comfortable balance between the real and the simulated varies from viewer to viewer.
