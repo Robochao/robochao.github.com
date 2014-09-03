@@ -1,16 +1,15 @@
 ---
-
 layout: page
 title: Welcome!
 ---
 {% include JB/setup %}
 ## Recent posts
 
-This blog is in its infancy. Recent posts will be posted here, so expect greatness!
+This blog is still a newborn. Recent posts will be posted here, so expect greatness!
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Check out the 'About Me' for a short introduction. 
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+
 
 <!-- ## To-Do
 
