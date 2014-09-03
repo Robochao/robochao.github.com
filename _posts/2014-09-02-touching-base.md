@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Touching base"
-description: ""
-category: Lessons
+category: "Lessons"
 tags: []
 ---
 {% include JB/setup %}
