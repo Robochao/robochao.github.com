@@ -5,7 +5,7 @@ title: Welcome!
 {% include JB/setup %}
 ## Recent posts
 
-<br height=0.5em>
+<br height=0.5>
 
 This blog is still a newborn. [And I'm alive, so it seems it wasn't a stillbirth.] 
 
