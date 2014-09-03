@@ -81,7 +81,7 @@ h4, h5, h6 {
 }
 
 a {
-  color:#3656BA;
+  color:#c30000;
   font-weight:200;
   text-decoration:none;
 }
@@ -282,7 +282,7 @@ header li {
 }
 
 header li:hover {
-	background: #C3001D;
+	background: #3656BA;
 	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
   background: -webkit-linear-gradient(top, #C3001D 0%,#950119 100%);
