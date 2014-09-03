@@ -5,6 +5,7 @@ title: Welcome!
 {% include JB/setup %}
 ## Recent posts
 
+
 This blog is still a newborn. Recent posts will be posted here, so expect greatness!
 
 Check out the 'About Me' for a short introduction. 
