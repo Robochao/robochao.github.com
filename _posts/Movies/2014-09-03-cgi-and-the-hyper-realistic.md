@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 ---
 layout: post
 title: "CGI's Hyper-Realism: Practical or Naw?"
@@ -29,4 +31,4 @@ The CGI simulation of universes creates the risk of exposing the artificial natu
 
 As far as scientific realism goes, that's a can of spam for another day.
 
-==- Andrew
+- Andrew
