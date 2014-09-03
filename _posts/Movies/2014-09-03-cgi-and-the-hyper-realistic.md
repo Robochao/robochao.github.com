@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 ---
 layout: post
 title: "CGI's Hyper-Realism: Practical or Naw?"
