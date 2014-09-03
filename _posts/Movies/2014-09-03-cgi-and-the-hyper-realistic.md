@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "CGI's Hyper-Realism: Practical or Naw?"
+title: "CGI's Hyper-Realism: Practical or Not?"
 description: ""
 category: 
 tags: []
 ---
 {% include JB/setup %}
+
+<img src="/img/adventures.jpg" width="550" height="175">
+
+<br>
 
 Computers have been quickly changing the world as we see it - music has been becoming electrified, life has been streamlined into the internet for all to see, and product shopping takes only but a few clicks. But more importantly, computers have been helping filmmakers change the movie experience.
 
@@ -14,7 +18,7 @@ Technology allows the artist to push the limits of experience set for the audien
 But what of the other side of the screen? What do the filmmaker, the special effects studios, and the animatronics professionals see? This video is what inspired me to furrow my brow a little:
 
 
-<iframe src="//player.vimeo.com/video/97585925" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/97585925">Why do practical effects get replaced with CGI?</a> from <a href="http://vimeo.com/user610563">Andyfilms</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/97585925" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p>
 
 
 In short, Alec Gillis (right in the video), says CGI "is not a cheaper way to go, but it's a safer way to go." CGI is safer by virtue of creating a photo-realistic experience that can be edited at any time post-production, and is cheaper in both time and resources. Hiring both practical artists and digital artists turns out to be a waste of time, since studios will tend to favor the digital artist.
