@@ -1,11 +1,9 @@
 ---
 
 layout: page
-title: Welcome
-
+title: Welcome!
 ---
 {% include JB/setup %}
-
 ## Recent posts
 
 This blog is in its infancy. Recent posts will be posted here, so expect greatness!
