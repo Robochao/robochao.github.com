@@ -15,7 +15,7 @@ title: Welcome!
 
 
 
-This blog is still a newborn. [And I'm alive, to boot!] 
+This blog is still a newborn. 
 
 Recent posts will be posted here, so expect greatness.
 
