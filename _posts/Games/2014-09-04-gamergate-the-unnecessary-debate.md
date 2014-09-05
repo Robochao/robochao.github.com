@@ -102,4 +102,4 @@ The charts are true, I checked. Ever since the reliability of these gaming journ
 
 I believe it to be only temporary, though.
 
-- Andrew
+-- Andrew
