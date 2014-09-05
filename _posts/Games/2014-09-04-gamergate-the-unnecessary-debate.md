@@ -12,7 +12,7 @@ tags: []
 
 For the last few days, the consumer gaming community has been on about what they call #GamerGate and #notyourshield. 
 
-I have composed a modern small play, in three Acts, of what happened, chronologically. I shall name it 
+I have composed a modern small play, in three Acts, of what happened, chronologically. I shall name it <a href="http://knowyourmeme.com/memes/tips-fedora">M'lady.</a>
 
 	-[Act I]-
 
@@ -21,21 +21,28 @@ I have composed a modern small play, in three Acts, of what happened, chronologi
 
 	Game reviewers: um what *twiddles thumbs*
 
-	Quinn: Whoa *calls in tumblr social justice warriors*
+	Quinn: Whoa SLUT-SHAMING MISOGYNY
+	[Quinn calls in tumblr social justice warriors]
 
-	SJW and Tumblr police: it's ok they're all just m'ladying.
+	SJW and Tumblr police: YES, MA'AM!
+	oh, it's ok they're all just m'ladying. teehee.
 
 	Gamers: EXCUSE ME
 
 	Journalists: Gamers aren't even a thing ...
 
 
+
 	-[Act II]-
 
-	Ben Quintero: why are journalists doing this :( i wish the community wasn't 
-	so harmful to itself.
+	Ben Quintero: why are journalists doing this :( 
+	i wish the community wasn't so harmful to itself.
+
+	Gamasutra: WHAT. DEMOTED
 
 	Ben Quintero: WHY DID I GET DEMOTED
+
+
 
 	-[Act III]-
 
@@ -54,10 +61,18 @@ Regardless of whether or not those who belitted Depression Quest's success were 
 
 What's worse: The silence on the end of the high journalists after the accusations of biased reviews in favor of Depression Quest. As figures the consumers trusted (or likely had teetering trust for) and respected professionally, it is not their place to be silent. As Quintero puts it: 
 
-	"The film and music industry is pretty widely known for having their dark days, and so why not gaming as well.  I don't think it was uncalled for to at least entertain the question and finally put it to bed.  Instead of calmly responding with a short but cleanly written open letter that explains their policies and practices, journalists either waited in silence until the resonance was too strong to avoid or they completely exploded on the internet much in the same way of the people they were criticizing."
+	"The film and music industry is pretty widely known for having 
+	their dark days, and so why not gaming as well.  I don't think 
+	it was uncalled for to at least entertain the question and 
+	finally put it to bed.  Instead of calmly responding with a 
+	short but cleanly written open letter that explains their 
+	policies and practices, journalists either waited in silence 
+	until the resonance was too strong to avoid or they completely
+	exploded on the internet much in the same way of the people 
+	they were criticizing."
 
 
-It was certainly not practical for the journalists to berate their audience. Insulting a moniker that represents a large demographic of people will undoubtedly end in hate. And to disregard the culturally diverse nature of the gamer is precisely where those who supposedly stood up against misogyny and bigotry went wrong: their words assumed all gamers are <a href="http://knowyourmeme.com/memes/tips-fedora">white, cisgendered, fedora-wearing basement-dweller men.</a>
+It was certainly not practical for the journalists to berate their audience. Insulting a moniker that represents a large demographic of people will undoubtedly end in hate. And to disregard the culturally diverse nature of the gamer is precisely where those who supposedly stood up against misogyny and bigotry went wrong: their words assumed all gamers are white, cisgendered, fedora-wearing basement-dweller men.
 
 Cue in <a href="https://pbs.twimg.com/media/BwjKV9SCAAEs9Yj.jpg">#GamerGate and #NotYourShield.</a>
 I'm not entirely sure why the hashtags have those names. I don't think I'm ever going to understand.
@@ -66,7 +81,12 @@ They have a <a href="http://gamergateharrassment.tumblr.com/">tumblr</a>, though
 
 But the movement resulting from it was an uprising of women and minority gamers who, too, felt the need to fuel the flame. And this is another point in which I feel the need to quote Quintero:
 
-	"There are a lot of angry voices but each of them is screaming something different.  Some are upset about the radio silence, others are expressing their anxiety over the threat of cronyism from a group of hungry writers who started out as fanboy gamers themselves, and others are inexplicably trying to destroy the lives of other people because they can."
+	"There are a lot of angry voices but each of them is screaming
+	 something different.  Some are upset about the radio silence,
+	 others are expressing their anxiety over the threat of 
+	 cronyism from a group of hungry writers who started out as 
+	 fanboy gamers themselves, and others are inexplicably trying 
+	 to destroy the lives of other people because they can."
 
 The most mature response from the gamers would have been to leave the articles be and fight the social justice warriors as they came along. If an article (especially something with such a heavy presence of opinion) does not get a lot of attention, it is likely that it will not be run again or copied by another journal or magazine. 
 
