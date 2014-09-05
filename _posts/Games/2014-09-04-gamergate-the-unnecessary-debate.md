@@ -94,7 +94,7 @@ If representing minorities was truly an issue, a good method of addressing it wo
 
 Whatever the reason for the uproar and unrest, no party handled this in a situation that was at all progressive. In the end, Quinn gains popularity, social justice warriors and game journalists get a bad stain on their reputation, and people have lost or quit their jobs because of the #GamerGate movement. I suppose the only thing we see is that the gaming community is much more resilient. And that everyone is, more than anything, really bad at English. 
 
-Oh, and some statistics showing that the journalists did, indeed, ruin themselves:
+Oh, and some statistics showing that the journalists did, indeed, ruin themselves (from twitter user @Int_Aristocrat):
 
 <img src="/img/stats.png">
 
