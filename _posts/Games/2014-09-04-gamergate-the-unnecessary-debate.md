@@ -8,7 +8,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-[Note: This is mostly a commentary, not a review. If you want a review of GamerGate, you can read a pretty accurate version of it in the <a href="http://knowyourmeme.com/memes/events/gamergate">KnowYourMeme entry</a>.
+[Note: This is mostly a commentary, not a review. If you want a review of GamerGate, you can read a pretty accurate version of it in the <a href="http://knowyourmeme.com/memes/events/gamergate">KnowYourMeme entry.</a>]
 
 For the last few days, the consumer gaming community has been on about what they call #GamerGate and #notyourshield. 
 
@@ -55,7 +55,7 @@ And now I'll explain my stance with a tone that's a little less akin to a LiveJo
 
 Basically, this is a situation where everyone - consumers, professionals, and internet personalities - handled everything with the least possible tact, except for <a href="http://www.gamasutra.com/blogs/BenjaminQuintero/20140902/224671/Can_We_All_Get_Along.php"> Ben Quintero</a> of Gamasutra. 
 
-Regardless of whether or not Depression Quest was a game worth its weight or not, the gaming community is well known to be an awfully critical lot unless it has to do with themselves. For reasons I don't quite understand, they are both quick to be offended and quick to have a word choice that is offensive to others (see: <a href="http://www.urbandictionary.com/define.php?term=faggot%20game"> faggot</a>).
+Regardless of whether or not Depression Quest was a game worth its weight or not, the gaming community is well known to be an awfully critical lot unless it has to do with themselves. For reasons I don't quite understand, the offensive gamers are both quick to be offended and quick to have a word choice that is offensive to others (see: <a href="http://www.urbandictionary.com/define.php?term=faggot%20game"> faggot</a>). It was no surprise a few of the more abrasive people took to disrespecting Quinn.
 
 Regardless of whether or not those who belitted Depression Quest's success were being misogynistic or not, they do not speak for the entire gaming community. That does not warrant a call for an entire host of people (the aptly named <a href="http://www.urbandictionary.com/define.php?term=social%20justice%20warrior">social justice warriors</a>) as backup against a select few who aren't known to have respect for anyone. This response is what skyrocketed this entire confrontation so quickly straight into the eyes of journalists. The journalists couldn't have ignored it even if bees had stung them in their retinas.
 
