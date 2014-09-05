@@ -12,11 +12,12 @@ tags: []
 
 For the last few days, the consumer gaming community has been on about what they call #GamerGate and #notyourshield. 
 
-I have composed a small play, in three Acts, of what happened, chronologically:
+I have composed a modern small play, in three Acts, of what happened, chronologically. I shall name it 
 
-	Act I
+	-[Act I]-
 
-	Gamers: LOL DEPRESSION QUEST SUCKS QUINN SLEPT WITH EVERYONE THOSE REVIEWS ARE SO FAKE
+	Gamers: LOL DEPRESSION QUEST SUCKS QUINN SLEPT WITH EVERYONE THOSE REVIEWS 
+	ARE SO FAKE
 
 	Game reviewers: um what *twiddles thumbs*
 
@@ -24,18 +25,19 @@ I have composed a small play, in three Acts, of what happened, chronologically:
 
 	SJW and Tumblr police: it's ok they're all just m'ladying.
 
-
 	Gamers: EXCUSE ME
 
 	Journalists: Gamers aren't even a thing ...
 
-	Act II
 
-	Ben Quintero: why are journalists doing this :( i wish the community wasn't so harmful to itself.
+	-[Act II]-
+
+	Ben Quintero: why are journalists doing this :( i wish the community wasn't 
+	so harmful to itself.
 
 	Ben Quintero: WHY DID I GET DEMOTED
 
-	Act III
+	-[Act III]-
 
 	Gamers: :( *Forms GamerGate Harassment Tumblr*
 
