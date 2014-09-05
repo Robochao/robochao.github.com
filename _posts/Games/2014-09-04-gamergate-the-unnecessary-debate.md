@@ -22,14 +22,10 @@ I have composed a small play, in three Acts, of what happened, chronologically:
 
 	Quinn: Whoa *calls in tumblr social justice warriors*
 
-	SJW and Tumblr police: it's ok they're all just this guy:
-
-<img src="/img/fed.jpg">
+	SJW and Tumblr police: it's ok they're all just m'ladying.
 
 
 	Gamers: EXCUSE ME
-
-<img src="img/wbd.jpg">
 
 	Journalists: Gamers aren't even a thing ...
 
@@ -59,12 +55,12 @@ What's worse: The silence on the end of the high journalists after the accusatio
 	"The film and music industry is pretty widely known for having their dark days, and so why not gaming as well.  I don't think it was uncalled for to at least entertain the question and finally put it to bed.  Instead of calmly responding with a short but cleanly written open letter that explains their policies and practices, journalists either waited in silence until the resonance was too strong to avoid or they completely exploded on the internet much in the same way of the people they were criticizing."
 
 
-It was certainly not practical for the journalists to berate their audience. Insulting a moniker that represents a large demographic of people will undoubtedly end in hate. And to disregard the culturally diverse nature of the gamer is precisely where those who supposedly stood up against misogyny and bigotry went wrong: their words assumed all gamers are white, cisgendered, fedora-wearing basement-dweller men. 
+It was certainly not practical for the journalists to berate their audience. Insulting a moniker that represents a large demographic of people will undoubtedly end in hate. And to disregard the culturally diverse nature of the gamer is precisely where those who supposedly stood up against misogyny and bigotry went wrong: their words assumed all gamers are <a href="http://knowyourmeme.com/memes/tips-fedora">white, cisgendered, fedora-wearing basement-dweller men.</a>
 
-Cue in #GamerGate and #NotYourShield.
+Cue in <a href="https://pbs.twimg.com/media/BwjKV9SCAAEs9Yj.jpg">#GamerGate and #NotYourShield.</a>
 I'm not entirely sure why the hashtags have those names. I don't think I'm ever going to understand.
 
-They have a <a href="http://gamergateharrassment.tumblr.com/">tumblr</a>, though, which is slightly ironic.
+They have a <a href="http://gamergateharrassment.tumblr.com/">tumblr</a>, though, which is slightly ironic, seeing as the social justice warriors are usually summoned from there.
 
 But the movement resulting from it was an uprising of women and minority gamers who, too, felt the need to fuel the flame. And this is another point in which I feel the need to quote Quintero:
 
