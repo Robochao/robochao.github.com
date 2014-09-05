@@ -26,9 +26,10 @@ Check out the 'About Me' for a short introduction.
 
 <!-- ## To-Do
 
-<ul>
-<li>Make my blog debut! Will be in place of "Touching Base"
-</ul>
+	Fix the issues with the mobile version 
+		- Will not zoom out
+		- Text does not wrap into phone screen
+		- Pictures inserted without js will 
 
 
 -->
