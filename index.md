@@ -3,6 +3,12 @@ layout: page
 title: Welcome!
 ---
 {% include JB/setup %}
+
+Welcome to my lifestyle blog! I write about technology, internet drama, music, and events. Take your time here. 
+
+Check out the 'About Me' for a short introduction. 
+
+
 ## Recent posts
 
 <ul class="posts">
@@ -13,11 +19,7 @@ title: Welcome!
 
 
 
-
-
 Recent posts will be posted here, so expect greatness!
-
-Check out the 'About Me' for a short introduction. 
 
 
 
