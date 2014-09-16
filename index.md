@@ -18,11 +18,14 @@ Check out the 'About Me' for a short introduction.
 </ul>
 
 
+I'm a little backed up due to a busy lifestyle. Forgive me!
 
-Recent posts will be posted here, so expect greatness!
-
-
-
+Four posts (and one series) to look forward to:
+<ol><li>Jury Duty and the domingating demographic of each crime</li>
+<li>Champions of the Coast [rhythm game tournament] weekend.</li>
+<li>Project: GameCube to 3DS converter</li>
+<li>Series: How do lasers work?</li>
+</ol>
 
 <!-- ## To-Do
 
