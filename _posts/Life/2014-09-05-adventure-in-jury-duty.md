@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adventure in Jury Duty"
+title: "Adventures in Jury Duty"
 description: ""
 category: 
 tags: []
