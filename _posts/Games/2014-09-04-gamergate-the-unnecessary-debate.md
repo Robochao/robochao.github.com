@@ -24,16 +24,22 @@ I have composed a modern small play, in three Acts, of what happened, chronologi
 	Quinn: Whoa SLUT-SHAMING MISOGYNY
 	[Quinn calls in tumblr social justice warriors]
 
+	[Enter SJW and Tumblr police, stage right]
+
 	SJW and Tumblr police: YES, MA'AM!
 	oh, it's ok they're all just m'ladying. teehee.
 
 	Gamers: EXCUSE ME
+
+	[Enter Journalists]
 
 	Journalists: Gamers aren't even a thing ...
 
 
 
 	-[Act II]-
+
+	[Single spotlight on Ben Quintero, sad, with Gamasutra over him]
 
 	Ben Quintero: why are journalists doing this :( 
 	i wish the community wasn't so harmful to itself.
