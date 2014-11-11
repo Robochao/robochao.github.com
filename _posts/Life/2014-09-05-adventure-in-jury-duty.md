@@ -39,10 +39,10 @@ I took this time to explore the building in the event that I wouldn't have the c
 
 Basically, anyone that didn't work there were people of different ethnicities. I saw maybe one or two Eastern asians and one or two Indians. Not sure how to feel about this, but a glimpse at demographic percentages in the 2010 data census makes me feel like I should have seen more of a racial balance in this building than I did:
 
-White alone: 32.7% 
-Black or African American alone: 25.8%
-Asian alone: 23.7%
-Hispanic or Latino: 27.6%
+White alone: 32.7%  
+Black or African American alone: 25.8%  
+Asian alone: 23.7%  
+Hispanic or Latino: 27.6%  
 
 
 Oops. That all adds up to more than 100%. The section for that actually adds up to more than 100%, but you can fact-check me <a href="http://quickfacts.census.gov/qfd/states/34/3436000.html">here if you'd really like to. </a> Confusing. 
