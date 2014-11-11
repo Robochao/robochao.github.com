@@ -17,8 +17,10 @@ The entire experience can be summarized in two words: wait times. I was called i
 
 After the elevator, there was a waiting room for everyone to flock to and wait around helplessly as daylight wasted away. Benches, running parallel to the longer side of the walls, faced the center of the room, forcing anyone to do the same if they didn't have phones or were done reading handouts. There was a glass booth for them to watch us in case anyone got out of hand - assuming we were the type. There was silence besides some idle chatter about transportation gripes, TV, and the humming of air conditioners. The TVs offered HGTV to entertain us in our emotionally draining room of cream, white, and light brown furnitures. Otherwise, it would be awkwardly quiet for a room with some 200 people. 
 
+<figure>
 <img src="/img/loveitorlistit.jpg">
 <figcaption>They put us here so you can think about how bad a choice the colors for this waiting room is.</figcaption>
+</figure>
 
 After that, we were split into seven groups by our Jury Number and were determined whether we were to serve for the next ten weeks or not. They moderated each group, one at a time, in a courtroom in a different floor (more awkward elevator waits). I've never been in a courtroom, so I was fully expecting something casual along the lines of Phoenix Wright, but I was terribly mistaken. This room was less than impressive, sharing the same palette as the wait room, but now sporting dark brown walls and the emblem of New Jersey. For what it's worth, it had some shiny decorations that offered some visual entertainment.
 
