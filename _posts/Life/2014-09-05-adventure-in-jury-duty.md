@@ -16,12 +16,6 @@ I got dropped off by my papa in a relatively decent part of town, it wasn't like
 The entire experience can be summarized in two words: wait times. I was called in for 8 AM to 3 PM and nearly all of it was waiting. I waited to get into the building. I waited to get checked/patted down for security. I waited to get onto an elevator with other people who clearly weren't down to party despite their incredibly casual attire. I waited to get briefed on what the day was about, et cetera. Basically, if I wasn't a convention wait-time veteran (I've served my time), I would not have been okay by the end of the day. I empathize for others who have never waited that long in their lives. Sad face.
 
 After the elevator, there was a waiting room for everyone to flock to and wait around helplessly as daylight wasted away. Benches, running parallel to the longer side of the walls, faced the center of the room, forcing anyone to do the same if they didn't have phones or were done reading handouts. There was a glass booth for them to watch us in case anyone got out of hand - assuming we were the type. There was silence besides some idle chatter about transportation gripes, TV, and the humming of air conditioners. The TVs offered HGTV to entertain us in our emotionally draining room of cream, white, and light brown furnitures. Otherwise, it would be awkwardly quiet for a room with some 200 people. 
-<p>
-<figure>
-<img src="/img/loveitorlistit.jpg" alt="Love It or List It">
-<figcaption>We've been put here by the government to help you judge the colors they're using for these rooms!</figcaption>
-</figure>
-</p>
 
 After that, we were split into seven groups by our Jury Number and were determined whether we were to serve for the next ten weeks or not. They moderated each group, one at a time, in a courtroom in a different floor (more awkward elevator waits). I've never been in a courtroom, so I was fully expecting something casual along the lines of Phoenix Wright, but I was terribly mistaken. This room was less than impressive, sharing the same palette as the wait room, but now sporting dark brown walls and the emblem of New Jersey. For what it's worth, it had some shiny decorations that offered some visual entertainment.
 
@@ -52,6 +46,7 @@ At any rate, I returned to the courtroom by 2 PM and saw the last group leave an
 
 OOPS.
 
-I made my way to the room and it turns out I wasn't needed for Jury Duty, so they sent me home and I got $5 in the mail a few weeks later.
+I made my way to the room and it turns out I wasn't needed for Jury Duty, and was out by 3 PM. They sent me home and I got $5 in the mail a few weeks later.
 
-I'd rather clean a house for that much money.
+$5 for 7 hours of waiting?
+I'd rather clean a house for that rate of money.
