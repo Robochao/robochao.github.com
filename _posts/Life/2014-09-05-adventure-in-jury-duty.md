@@ -19,7 +19,7 @@ After the elevator, there was a waiting room for everyone to flock to and wait a
 
 <figure>
 <img src="/img/loveitorlistit.jpg">
-
+<figcaption>We've bteen put here by the government to help you judge the colors they're using for these rooms!</figcaption>
 </figure>
 
 After that, we were split into seven groups by our Jury Number and were determined whether we were to serve for the next ten weeks or not. They moderated each group, one at a time, in a courtroom in a different floor (more awkward elevator waits). I've never been in a courtroom, so I was fully expecting something casual along the lines of Phoenix Wright, but I was terribly mistaken. This room was less than impressive, sharing the same palette as the wait room, but now sporting dark brown walls and the emblem of New Jersey. For what it's worth, it had some shiny decorations that offered some visual entertainment.
